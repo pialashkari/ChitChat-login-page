@@ -2,7 +2,7 @@
 ### Login Page
 <br> 
 🔭 I'm currently learning Web Dev by Dr. Angela Yu (Udemy) and DSA in Java by Anuj Bhaiya (Coding Shuttle). <br><br>
-🚀 This is the Login page, I created under the complete <i>ChitChat();</i> Project which is present in the Computer where the Database is located. It looks best on Desktop as, this is not Responsive yet. <br><br>
+🚀 This is the Login page, I created under the complete <i>ChitChat();</i> Project I did in a team of 4 members (Anshu & Khyati did Back-end, Ankit & I did Front-end). The complete project is present in the Computer where the Database is located. It looks best on Desktop as, this is not Responsive yet. <br><br>
 ⚡ I started #100DaysOfCode Challenge on 30 July 2023. <br>
 <br><br>
 
